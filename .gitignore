@@ -4,3 +4,5 @@
 tmp
 *.db
 *.sum
+*bin*
+pkg/*
